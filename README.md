@@ -24,7 +24,9 @@ Change the word "STEAMID" to the numbers in the name of the file you exported fr
  
  
 Here is where it gets tricky, scroll down until you get a list like this
+
 ![console](https://github.com/rubenvanopstal/SteamBots/blob/master/img.png)
+ 
  
 Of course, there aren't white lines but lines of numbers. As you can see, identity_secret is the 3rd (for ME at least) value from the top (DON'T use 4!)
 Again, the white lines are NUMBERS and LETTERS. In my case, identity_secret was the 3rd value so I count from the top of the lines with numbers until I get to line 3. In this picture, it is line 16.
