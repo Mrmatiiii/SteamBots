@@ -1,7 +1,10 @@
 # SteamBots
-Some SteamBots I made for managing my steam accounts from incoming requests, farming game hours, making many bot accounts and many more.
-
-iTunes, iExplorer and Windows and of course backpack.tf automatic (if you want to use it for that)
+##
+Tutorial for Windows and iOS Device
+Things you need:
+ - iTunes
+ - iExplorer
+ - Windows
  
  
 Method:
